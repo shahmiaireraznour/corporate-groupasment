@@ -1,13 +1,13 @@
 body
 {
 	background-image: url('images/White.jpg');
-	padding: 30px;
+	padding: 25px;
     background-repeat: no-repeat;
     background-size: auto;
 }
 .container
 {
-	width: 900px; 
+	width: 1000px; 
 	height: all;
 	margin: 100px auto;
 	background: #d9ffb3;
