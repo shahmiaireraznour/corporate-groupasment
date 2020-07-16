@@ -56,7 +56,7 @@ body
 	font-family: 'Sniglet', cursive;
 	font-size: 2;
 	text-transform: all;
-	text-align: right;
+	text-align: center;
 }
 .container li
 {
@@ -65,5 +65,4 @@ body
 	font-family: 'Sniglet', cursive;
 	font-size: 2;
 	text-transform: all;
-	text-align: right;
 }
