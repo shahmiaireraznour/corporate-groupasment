@@ -44,8 +44,17 @@ body
 {
 	margin: 0;
 	padding: 0;
-	font-family: 'Fontdiner Swanky', cursive;
+	font-family: 'Gugi', cursive;
 	font-size: 3 bold;
+	text-transform: all;
+	text-align: center;
+}
+.container ol
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Sniglet', cursive;
+	font-size: 2;
 	text-transform: all;
 	text-align: center;
 }
